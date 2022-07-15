@@ -1,0 +1,8 @@
+.idea/
+
+server/target/
+server/*.iml
+
+client/manage/
+client/node_modules/
+client/*.iml
