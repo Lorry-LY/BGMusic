@@ -1,6 +1,7 @@
 .idea/
 
 server/target/
+server/out/
 server/*.iml
 
 client/manage/
