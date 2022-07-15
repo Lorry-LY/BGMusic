@@ -3,8 +3,11 @@
 
 ### 前端
 框架：vue
+
 技术：echars,axios
 
 ### 后端
 框架：springboot
-技术：
+
+### 数据库
+NoSQL：MongoDB
